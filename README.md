@@ -1,0 +1,2 @@
+# kalkulatorTMZ
+kalkulator TMZ
